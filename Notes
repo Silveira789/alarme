@@ -1,0 +1,5 @@
+Estrutura do projeto:
+
+    Importing all the libraries and modules required
+    Putting forward a while loop which takes the argument of the time, the user wants to set the alarm on and automatically breaks when the time is up, with sound
+    Create a display window for user input.
